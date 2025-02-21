@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">cheembs</string>
-    <string name="text_restart">reiniciar</string>
+    <string name="text_restart">Restart</string>
+    <string name="text_game_over">Game over!! try again</string>
 </resources>
