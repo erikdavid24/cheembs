@@ -1,5 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">cheembs</string>
     <string name="text_restart">Restart</string>
     <string name="text_game_over">Game over!! try again</string>
+    <string name="text_you_win">You Win!!</string>
+    <string name="text_surrender">Surrender</string>
+    <string name="text_welcome_es">Bienvenido a Cheems!</string>
+    <string name="text_welcome_en">Welcome to Cheems!</string>
+    <string name="text_welcome_fr">Bienvenue chez Cheems!</string>
+    <string name="text_flip_all">Flip All</string>
 </resources>
